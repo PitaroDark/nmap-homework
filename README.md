@@ -21,7 +21,7 @@ Para instalar el proyecto, puedes seguir estos pasos:
 
 1. Clona el repositorio a tu maquina con el siguiente comando: `git clone https://github.com/PitaroDark/nmap-homework.git`
 2. Ingresa al repositorio que has clonado con: `cd nmap-homework`
-3. Crea un entorno virtual con el siguiente comando: `python3 -m vevn .venv`
+3. Crea un entorno virtual con el siguiente comando: `python3 -m venv .venv`
 4. Activa el ambiente virtual con el siguiente comando: `source .venv/bin/activate`
 5. Instala las dependencias con: `pip install -r requirements.txt`
 
